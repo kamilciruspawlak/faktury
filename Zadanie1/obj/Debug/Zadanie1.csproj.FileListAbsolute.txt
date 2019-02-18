@@ -1,0 +1,7 @@
+D:\programowanie\zadanieOdDamiana\Zadanie1\bin\Debug\Zadanie1.exe.config
+D:\programowanie\zadanieOdDamiana\Zadanie1\bin\Debug\Zadanie1.exe
+D:\programowanie\zadanieOdDamiana\Zadanie1\bin\Debug\Zadanie1.pdb
+D:\programowanie\zadanieOdDamiana\Zadanie1\obj\Debug\Zadanie1.csprojAssemblyReference.cache
+D:\programowanie\zadanieOdDamiana\Zadanie1\obj\Debug\Zadanie1.csproj.CoreCompileInputs.cache
+D:\programowanie\zadanieOdDamiana\Zadanie1\obj\Debug\Zadanie1.exe
+D:\programowanie\zadanieOdDamiana\Zadanie1\obj\Debug\Zadanie1.pdb
